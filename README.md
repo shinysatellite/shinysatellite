@@ -1,6 +1,6 @@
 <h1 align="center">Web Guru</h1>
 
-<div color="green" align="center"> Fullstack web developer </div>
+<div color="green" align="center"> Full-Stack web developer </div>
 
 ---
 
