@@ -59,8 +59,14 @@
 <br/>
 
 
-## Github Stats
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shinysatellite&show_icons=true&count_private=true&hide_border=false" align="center" /></div>
-
-<br/>
+### Badges<b>My GitHub Stats</b>
+<div>
+  <a href="http://www.github.com/IsobeHiroshi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shinysatellite&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+</div>
+<div>
+  <a href="https://github.com/IsobeHiroshi" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinysatellite&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  </a>
+</div>
