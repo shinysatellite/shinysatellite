@@ -1,168 +1,96 @@
-<!-- welcome message -->
+<h1 align="center">Hi there! I'm a guru who you are looking for 👋</h1>
 
-# Hi there! I'm Cael.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UjjwalSharma01&color=blue" alt="Profile Views" />
+</p>
 
-<!-- badge -->
-<div>
-  <a href="https://t.me/owencael" target="_blank">
-    <img
-      height="35"
-      alt="telegram logo"
-      src="https://img.shields.io/static/v1?message=Telegrm&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
-    />
+<blockquote style="font-size: 24px;">
+  <p align="center">
+    <strong>"Empowering the Future: Innovating for a Better World"</strong>
+  </p>
+</blockquote>
+
+Welcome to my GitHub profile! I'm a passionate and enthusiastic student with a drive to create real-life, human-centric projects that make a positive impact. I believe in the power of innovation and technology to shape a better future.
+
+### 🚀 Expertise
+
+- Programming Languages: C++, C, Python
+- Web Development: Currently learning and exploring
+- Soft Skills: Excellent communication, collaboration, and public speaking
+
+### 💡 Interests
+
+I'm deeply interested in:
+
+- Building real-life projects that solve meaningful problems.
+- Exploring the fascinating field of AI and experimenting with different datasets and models.
+
+### 📚 Hobbies
+
+Apart from coding, I enjoy:
+
+- Writing and expressing my thoughts through words.
+- Reading books and expanding my knowledge.
+
+### 🌱 Future Goals
+
+My ultimate goal is to build a startup that positively impacts the lives of millions. I'm excited about the possibilities that lie ahead and eager to learn and grow on this journey.
+
+### Let's Connect
+
+<p align="center">
+  You can find me on:
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ujjwalsharma01">
+    <img src="https://raw.githubusercontent.com/shinysatellite/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/sharma_ujjwal01">
+    <img src="https://raw.githubusercontent.com/shinysatellite/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" />
   </a>
-  <a href="mailto:MR-Addict@qq.com" target="_blank">
-    <img
-      height="35"
-      alt="gmail logo"
-      src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge"
-    />
+</p>
+
+### Other Profiles
+
+<p align="center">
+  <a href="https://www.codechef.com/users/ujjwalsharma01">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/ujjwalsharma01">
+    <img src="https://raw.githubusercontent.com/shinysatellite/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/sharma_ujjwal">
+    <img src="https://raw.githubusercontent.com/shinysatellite/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/sharma_ujjwal">
+    <img src="https://raw.githubusercontent.com/shinysatellite/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/sharma_ujjwal/profile">
+    <img src="https://raw.githubusercontent.com/shinysatellite/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40"/>
   </a>
-  <a href="https://mraddict.one" target="_blank">
-    <img
-      height="35"
-      alt="microsoft-outlook logo"
-      src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
-    />
-  </a>
-</div>
+</p>
 
-<br/>
+Feel free to reach out to me for collaborations, discussions, or just to say hello! 😄
 
-I'm an undergradute student of Njtech University from Jiangsu China.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ujjwalsharma01&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
+</p>
 
-I have a strong passion for technology and enjoy exploring new tools. Here's a little bit more about me:
+<p align="center">
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalsharma01&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
 
-- 🔭 I’m currently working on building my portfolio and contributing to open source projects.
-- 🌱 I’m constantly learning frontend techonolgies and keeping improving my skills.
-- 👯 I’m looking to collaborate on any project that aligns with my interests and expertise.
-- 💼 I'm also writing some intersting projects, you can have a look on my pinned repositories.
-- 💬 Ask me about anything related to programming, technology, or video games.
-- 😄 You can reach me using above social badges links.
 
-Here are programming languages or tools I frequently used:
+<details align="center">
+  <summary>GitHub Trophies 🏆</summary>
+  <br>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ujjwalsharma01&theme=darkhub&column=7&bgColor=000000&noFrame=true&row=1&margin-w=15" alt="GitHub Trophies" />
+  </p>
+</details>
 
-<div>
-  <img
-    height="30"
-    width="42"
-    alt="typescript logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="python logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="matlab logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="tailwindcss logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="react logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="svelte logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="nextjs logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="mongodb logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="redis logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="mysql logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="docker logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="nginx logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="processing logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="raspberrypi logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="arduino logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
-  />
-</div>
 
-##
+------
 
-And here are some interesting grphs:
-
-<!-- grph -->
-<div align="left">
-  <div>
-    <img
-      height="150"
-      alt="stats graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shinysatellite&theme=vue"
-    />
-    <img
-      height="150"
-      alt="languages graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shinysatellite&theme=vue"
-    />
-  </div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shinysatellite&theme=vue" alt="profile detail" />
-  <img src="https://raw.githubusercontent.com/shinysatellite/shinysatellite/output/snake/snake.svg" alt="Snake animation" />
-</div>
-
-##
-
-If you have any questions or just want to say hi, feel free to reach out.
-
-Have a great day!
-
----
-Credit: [MR-Addict](https://github.com/MR-Addict)
-Last Edit: 02/26/2023
+Credit: [UjjwalSharma01](https://github.com/UjjwalSharma01)
+Last Edited on:19/07/2023
