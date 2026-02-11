@@ -145,16 +145,16 @@ And here are some interesting grphs:
     <img
       height="150"
       alt="stats graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-Addict&theme=vue"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shinysatellite&theme=vue"
     />
     <img
       height="150"
       alt="languages graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MR-Addict&theme=vue"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shinysatellite&theme=vue"
     />
   </div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-Addict&theme=vue" alt="profile detail" />
-  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/snake/snake.svg" alt="Snake animation" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shinysatellite&theme=vue" alt="profile detail" />
+  <img src="https://raw.githubusercontent.com/shinysatellite/shinysatellite/output/snake/snake.svg" alt="Snake animation" />
 </div>
 
 ##
